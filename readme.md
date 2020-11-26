@@ -26,6 +26,33 @@ https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/office/bulk-add-mo
 ## Référentiel GitHub de l'applicatif utilisé pour les ateliers 
 https://github.com/dotnet-architecture/eShopOnWeb
 
+## SpecFlow
+https://specflow.org/
+
+## Analytics Views
+https://docs.microsoft.com/en-us/azure/devops/report/powerbi/what-are-analytics-views?view=azure-devops
+
+## Connect Azure Boards to an office client
+https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/office/track-work?view=azure-devops&tabs=open-excel
+
+## Work Item Fields
+https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/work-item-field?view=azure-devops
+
+## Azure DevOps Services Rest API Reference
+https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-6.1
+
+## Use Predefined Variables
+https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml
+
+## Boards Area via AZ CLI
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/area?view=azure-cli-latest
+
+## Iterations via AZ CLI
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration/project?view=azure-cli-latest#ext_azure_devops_az_boards_iteration_project_create
+
+## AZ CLI Documentation
+https://docs.microsoft.com/fr-fr/cli/azure/
+
 ## Comptes Twitter à Suivre :
 
 Azure Dev Ops
