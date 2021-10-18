@@ -3,7 +3,7 @@ Expaceo peut répondre à vos besoins.
 
 N'hésitez pas à nous contacter
 
-- Contact : Steven Le Morzadec 
+- Contact : Quentin Bohe 
   - Email : commercial@expaceo.com
 
 - Formateur : Yannick Willi
@@ -57,18 +57,6 @@ https://docs.microsoft.com/fr-fr/cli/azure/
 
 Azure Dev Ops
 @AzureDevOps
-
-Abel Wang
-Specialist sur DevOps
-@AbelSquidHead
-
-Sasha Rosenbaum
-Senior Product Manager Devops
-@DivineOps
-
-Martin Woodward
-Program Manager DevOps
-@martinwoodward
 
 ## Blog DevOps
 https://devblogs.microsoft.com/devops/
