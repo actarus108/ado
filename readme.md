@@ -53,6 +53,9 @@ https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration/pro
 ## AZ CLI Documentation
 https://docs.microsoft.com/fr-fr/cli/azure/
 
+## GIT FLOW 
+https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+
 ## Comptes Twitter à Suivre :
 
 Azure Dev Ops
