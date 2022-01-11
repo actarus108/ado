@@ -11,6 +11,9 @@ N'hésitez pas à nous contacter
 
 # Les liens évoqués pendant la formation
 
+## Ateliers de la formation
+https://expaceoateliers.z28.web.core.windows.net/ADO/README.html
+
 ## Azure DevOps Feature Timeline 
 https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline 
 
